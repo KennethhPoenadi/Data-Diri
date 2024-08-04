@@ -67,6 +67,13 @@
     transition: all 1s ease-in-out; 
 }
 
+.footerimg1{
+    margin-top : 15px;
+    width : auto;
+    height :40px;
+    transition: all 1s ease-in-out; 
+}
+
 
 .footerimg:hover {
     color: black;
@@ -76,4 +83,28 @@
     box-shadow: 0 4px 8px rgb(0, 0, 0, 0.3); 
     transform: scale(1.2); 
     transition: all 1s ease-in-out; 
+}
+
+.text {
+    margin-right: 750px;
+    max-width: 300px;
+    margin-bottom: 100px;
+    font-size: 40px;
+    font-weight : Bold;
+}
+
+.textfooter{
+    margin-top: 25px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+
+.textbawah {
+    font-size: 20px;
+    color: grey;
+    white-space: nowrap; 
+    font-weight: normal;
 }
