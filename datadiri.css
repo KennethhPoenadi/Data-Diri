@@ -167,3 +167,29 @@ body.fade-out {
     opacity: 0;
     transition: opacity 1s ease-in-out;
 }
+
+.ul-text1{
+    margin-right: 400px;
+}
+
+.li-text1{
+    font-size: 20px;
+    font-weight: bold;
+    list-style-type: none;
+    color:palevioletred;
+    padding: 10px;
+    margin: 10px;
+}
+
+.ul-text2 {
+    margin-left : 200px;
+}
+
+.li-text2{
+    font-size: 20px;
+    font-weight: bold;
+    list-style-type: none;
+    color:cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+}
